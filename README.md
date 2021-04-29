@@ -6,7 +6,7 @@ Random PowerShell tools that I hacked together.
 
 **None!**
 
-## Direcotories
+## Tools
 
 |  Name          |  Description     |
 | :------------- | :--------------- |
